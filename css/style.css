@@ -1,4 +1,7 @@
-
+body{
+  font-family: 'Playfair Display', serif ;
+  font-weight: 400;
+}
 .thumbnail {
     position: relative;
 }
@@ -8,7 +11,7 @@
     top: 65%;
     left: 0;
     width: 100%;
-}
+  }
 .image {
   position: absolute;
   top: 5%;
