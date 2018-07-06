@@ -1,0 +1,18 @@
+div {
+    width: 320px;
+    padding: 10px;
+    border: 0px;
+    margin: 0;
+}/* Bottom centre */
+
+
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+}
