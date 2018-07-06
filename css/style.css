@@ -1,10 +1,3 @@
-div {
-    width: 320px;
-    padding: 10px;
-    border: 0px;
-    margin: 0;
-}/* Bottom centre */
-
 
 .thumbnail {
     position: relative;
@@ -12,11 +5,13 @@ div {
 
 .caption {
     position: absolute;
-    top: 45%;
+    top: 65%;
     left: 0;
     width: 100%;
 }
-#box-serch {
-    align-content: center;
+.image {
+  position: absolute;
+  top: 5%;
+  left: 0;
+  width: 100%;
 }
-  

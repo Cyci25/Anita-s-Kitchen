@@ -10,7 +10,9 @@ html {
       -ms-text-size-adjust: 100%;
 }
 body {
-  margin: 0;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: auto;
 }
 article,
 aside,
@@ -137,8 +139,8 @@ html input[disabled] {
 }
 button::-moz-focus-inner,
 input::-moz-focus-inner {
-  padding: 0;
-  border: 0;
+  padding: 20%;
+  border: 20%;
 }
 input {
   line-height: normal;
